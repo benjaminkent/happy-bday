@@ -1,7 +1,7 @@
 {
   "private": true,
   "scripts": {
-    "deploy": "surge ./public --domain happy-bday-benjaminjehl.surge.sh",
+    "deploy": "surge ./public --domain rebeccabirthday-benjaminjehl.surge.sh",
     "start": "browser-sync start --server \"public\" --files \"public\""
   },
   "dependencies": {

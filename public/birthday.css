@@ -1,0 +1,78 @@
+@import url("https://fonts.googleapis.com/css?family=Raleway:400,500,600,700,800,900|Srisakdi:400,700");
+
+html {
+  height: 100%;
+}
+
+body {
+  margin: 0;
+  min-height: 100%;
+  font-size: 16px;
+  font-family: "Raleway", sans-serif;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: space-between;
+  background-color: #e08ef9;
+}
+
+a {
+  text-decoration: none;
+  color: #004fff;
+}
+
+footer p {
+  margin: 0;
+}
+
+p {
+  text-align: center;
+  font-size: 1.2rem;
+  line-height: 2rem;
+  color: #004fff;
+}
+
+.bday-footer p {
+  color: #ec0868;
+}
+
+.bday-footer a {
+  color: #ec0868;
+}
+
+.back-button a {
+  color: #6000a5;
+  outline: none;
+}
+
+.bday-header button {
+  margin: 20px;
+  border-radius: 10px;
+  font-size: 1.5rem;
+  height: 50px;
+  width: 100px;
+  background-color: #ec0868;
+  border: 2px solid #6000a5;
+}
+
+.bday-header p {
+  margin: 20px;
+  font-size: 2rem;
+  font-weight: 700;
+  color: #ec0868;
+}
+
+.bday-header {
+  display: flex;
+  justify-content: space-between;
+  width: 100%;
+}
+
+.bday-main {
+  display: flex;
+  justify-content: center;
+}
+
+.bday-body {
+  background-image: url(./images/fireworks.gif);
+}
