@@ -105,9 +105,11 @@ div.love p {
 
   footer p {
     font-size: 0.8rem;
+    height: 20px;
   }
 
   footer a {
     font-size: 0.8rem;
+    height: 20px;
   }
 }
