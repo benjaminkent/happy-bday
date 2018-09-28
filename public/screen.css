@@ -87,11 +87,11 @@ div.love p {
   }
 
   a {
-    font-size: 1rem;
+    font-size: 0.8rem;
   }
 
   button.main-page {
-    width: 250px;
+    width: 225px;
     margin: 10px 0 25px 0;
   }
 
